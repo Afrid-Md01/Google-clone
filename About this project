@@ -1,0 +1,17 @@
+# Google search app(Google clone)
+
+URL :- https://google-clone-app01.netlify.app
+
+A simple Google clone app developed by React JS.
+Used "Custom Search JSON API" provided by Google to get data and we can get all data and image data.
+Used Tailwind CSS for styling.
+Dark mode feature.
+Fully responsive.
+
+Libraries Used :
+    "axios": "^1.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-player": "^2.12.0",
+    "react-router-dom": "^5.3.4",
